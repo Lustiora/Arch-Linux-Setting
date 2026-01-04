@@ -11,3 +11,11 @@ Arch Linux 사용을 위한 설치 , 설정 방법을 정리 하였습니다.
 [Part 2. Arch Linux GUI Install](https://github.com/Lustiora/Arch-Linux-Setting/issues/15)
 
 ...
+
+Discover Setup은 동작 오류 발생 가능성이 높으니 설치 자제
+
+|구분|추천 설치 방식|이유|대상 앱 예시|
+|*--*|*--*|*--*|*--*|
+|하드웨어 가속 필수|AUR / Pacman (Native)|GPU 드라이버와 1:1 매칭이 필수임|"Chrome, Edge, Firefox, Steam(게임), OBS Studio, 동영상 플레이어(VLC, MPV)"|
+|시스템 도구|AUR / Pacman (Native)|시스템 파일/폴더 권한 제어가 편함}"VS Code, 파일 관리자, 터미널"|
+|단순 유틸리티|Flatpak|샌드박스로 격리되어 깔끔하고 안전함|"Discord, Spotify, Telegram, Slack, 계산기, 메모장"|
