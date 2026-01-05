@@ -15,7 +15,16 @@
 
 ---
 
-[Recommendation App](https://github.com/Lustiora/Arch-Linux-Setting/issues/9)
+### Recommendation
+- [Recommendation Package](https://github.com/Lustiora/Arch-Linux-Setting/issues/9)
+- [Synology Mount](https://github.com/Lustiora/Arch-Linux-Setting/issues/11)
+- [Google Drive Folder Mount](https://github.com/Lustiora/Arch-Linux-Setting/issues/10)
+- [PostgreSQL Setup](https://github.com/Lustiora/Arch-Linux-Setting/issues/12)
+- [Grub-Customizer Setup](https://github.com/Lustiora/Arch-Linux-Setting/issues/8)
+
+### Plasma Shell
+- [Plasma Shell 대기 모드로 인한 Smart Video Wallpaper Reborn, Pause Issues](https://github.com/Lustiora/Arch-Linux-Setting/issues/17)
+- [Browers 한글 입력 안되는 Issues](https://github.com/Lustiora/Arch-Linux-Setting/issues/6)
 
 최신 linux 커널의 경우
 > `Discover (Flatpak)` 을 사용한 설치는 동작 오류 발생 가능성이 높으니 설치 자제
