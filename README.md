@@ -19,6 +19,7 @@
 - [Recommendation Package](https://github.com/Lustiora/Arch-Linux-Setting/issues/9)
 - [Synology Mount](https://github.com/Lustiora/Arch-Linux-Setting/issues/11)
 - [Google Drive Folder Mount](https://github.com/Lustiora/Arch-Linux-Setting/issues/10)
+- [Mount Request Delete](https://github.com/Lustiora/Arch-Linux-Setting/issues/5)
 - [PostgreSQL Setup](https://github.com/Lustiora/Arch-Linux-Setting/issues/12)
 - [Grub-Customizer Setup](https://github.com/Lustiora/Arch-Linux-Setting/issues/8)
 
