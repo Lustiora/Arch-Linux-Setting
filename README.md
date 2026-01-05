@@ -26,8 +26,9 @@
 - [Plasma Shell 대기 모드로 인한 Smart Video Wallpaper Reborn, Pause Issues](https://github.com/Lustiora/Arch-Linux-Setting/issues/17)
 - [Browers 한글 입력 안되는 Issues](https://github.com/Lustiora/Arch-Linux-Setting/issues/6)
 
-최신 linux 커널의 경우
-> `Discover (Flatpak)` 을 사용한 설치는 동작 오류 발생 가능성이 높으니 설치 자제
+---
+
+- 최신 linux 커널의 경우 `Discover (Flatpak)` 을 사용한 설치는 동작 오류 발생 가능성이 높으니 설치 자제
 
 | 구분 | 추천 설치 방식 | 이유 | 대상 앱 예시 |
 | --- | -- | -- | -- |
