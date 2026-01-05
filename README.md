@@ -23,7 +23,7 @@
 - [Grub-Customizer Setup](https://github.com/Lustiora/Arch-Linux-Setting/issues/8)
 
 ### Plasma Shell
-- [Plasma Shell 대기 모드로 인한 Smart Video Wallpaper Reborn, Pause Issues](https://github.com/Lustiora/Arch-Linux-Setting/issues/17)
+- [대기 모드로 인한 Smart Video Wallpaper Reborn, Pause Issues](https://github.com/Lustiora/Arch-Linux-Setting/issues/17)
 - [Browers 한글 입력 안되는 Issues](https://github.com/Lustiora/Arch-Linux-Setting/issues/6)
 
 ---
