@@ -15,6 +15,8 @@
 
 ---
 
+[Recommendation App](https://github.com/Lustiora/Arch-Linux-Setting/issues/9)
+
 최신 linux 커널의 경우
 > `Discover (Flatpak)` 을 사용한 설치는 동작 오류 발생 가능성이 높으니 설치 자제
 
