@@ -22,6 +22,7 @@
 - [Mount Request Delete](https://github.com/Lustiora/Arch-Linux-Setting/issues/5)
 - [PostgreSQL Setup](https://github.com/Lustiora/Arch-Linux-Setting/issues/12)
 - [Grub-Customizer Setup](https://github.com/Lustiora/Arch-Linux-Setting/issues/8)
+- [Network Monitoring](https://github.com/Lustiora/Arch-Linux-Setting/issues/24)
 
 ### Plasma Shell
 - [대기 모드로 인한 Smart Video Wallpaper Reborn, Pause Issues](https://github.com/Lustiora/Arch-Linux-Setting/issues/17)
