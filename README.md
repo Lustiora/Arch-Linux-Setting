@@ -1,4 +1,4 @@
-# Arch Linux 사용을 위한 설치 , 설정 방법을 정리 하였습니다.
+# Arch Linux Setup & Settings Guide
 
 ## 참고<br>
 - [ArchWiki](https://wiki.archlinux.org/title/Main_page)
