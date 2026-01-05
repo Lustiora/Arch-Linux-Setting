@@ -8,9 +8,9 @@
 --- 
 
 ## 목차
-- [Part 1. Arch Linux Base Install](https://github.com/Lustiora/Arch-Linux-Setting/issues/1)
-- [Part 1. Windows + Arch Linux Base Install](https://github.com/Lustiora/Arch-Linux-Setting/issues/16)
-- [Part 1. Windows + Arch Linux Base Install (Linux-LTS)(Intel I211 NIC Freezing Issues)](https://github.com/Lustiora/Arch-Linux-Setting/issues/23)
+- [Part 1. Windows + Arch Linux Base Install](https://github.com/Lustiora/Arch-Linux-Setting/issues/1)
+- [Part 1. Windows & Arch Linux Base Install](https://github.com/Lustiora/Arch-Linux-Setting/issues/16)
+- [Part 1. Windows & Arch Linux Base Install (Linux-LTS)(Intel I211 NIC Freezing Issues)](https://github.com/Lustiora/Arch-Linux-Setting/issues/23)
 - [Part 2. Arch Linux GUI Install](https://github.com/Lustiora/Arch-Linux-Setting/issues/15)
 
 ---
