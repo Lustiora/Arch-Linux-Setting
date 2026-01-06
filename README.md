@@ -13,7 +13,7 @@
 - [Full Setup: Windows + Arch Linux (Fresh Install)](https://github.com/Lustiora/Arch-Linux-Setting/issues/16)
 - [Full Setup: Windows + Arch Linux (LTS Kernel / Intel I211 NIC Fix)](https://github.com/Lustiora/Arch-Linux-Setting/issues/23)
 ### Part 2. Desktop Environment
-- [Part 2. Arch Linux GUI Install](https://github.com/Lustiora/Arch-Linux-Setting/issues/15)
+- [Arch Linux GUI Install (KDE Plasma)](https://github.com/Lustiora/Arch-Linux-Setting/issues/15)
 
 ---
 
