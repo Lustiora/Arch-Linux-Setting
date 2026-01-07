@@ -25,7 +25,7 @@
 - [Mount Request Delete](https://github.com/Lustiora/Arch-Linux-Setting/issues/5)
 - [PostgreSQL Setup](https://github.com/Lustiora/Arch-Linux-Setting/issues/12)
 - [Grub-Customizer Setup](https://github.com/Lustiora/Arch-Linux-Setting/issues/8)
-- [DPI 우회 [zapret]](https://github.com/Lustiora/Arch-Linux-Setting/issues/26)
+- [DPI counter using Zapret](https://github.com/Lustiora/Arch-Linux-Setting/issues/26)
 
 ### Plasma Shell
 - [대기 모드로 인한 Smart Video Wallpaper Reborn, Pause Issues](https://github.com/Lustiora/Arch-Linux-Setting/issues/17)
