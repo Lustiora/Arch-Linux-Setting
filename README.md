@@ -18,17 +18,21 @@
 ---
 
 ### Recommendation
+- [Booting Password Request Delete](https://github.com/Lustiora/Arch-Linux-Setting/issues/4)
 - [Recommendation Package](https://github.com/Lustiora/Arch-Linux-Setting/issues/9)
 - [Synology Mount](https://github.com/Lustiora/Arch-Linux-Setting/issues/11)
 - [Google Drive Folder Mount](https://github.com/Lustiora/Arch-Linux-Setting/issues/10)
 - [Mount Request Delete](https://github.com/Lustiora/Arch-Linux-Setting/issues/5)
 - [PostgreSQL Setup](https://github.com/Lustiora/Arch-Linux-Setting/issues/12)
 - [Grub-Customizer Setup](https://github.com/Lustiora/Arch-Linux-Setting/issues/8)
-- [Network Monitoring & Troubleshooting Guide](https://github.com/Lustiora/Arch-Linux-Setting/issues/24)
 
 ### Plasma Shell
 - [대기 모드로 인한 Smart Video Wallpaper Reborn, Pause Issues](https://github.com/Lustiora/Arch-Linux-Setting/issues/17)
 - [Browers 한글 입력 안되는 Issues](https://github.com/Lustiora/Arch-Linux-Setting/issues/6)
+- [Edge Browser, 특정 Profile, Youtube 바로가기 생성](https://github.com/Lustiora/Arch-Linux-Setting/issues/18)
+
+### Fix
+- [Network Monitoring & Troubleshooting Guide](https://github.com/Lustiora/Arch-Linux-Setting/issues/24)
 
 ---
 
