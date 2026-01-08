@@ -4,6 +4,7 @@
 - [ArchWiki](https://wiki.archlinux.org/title/Main_page)
 - [Installation guide](https://wiki.archlinux.org/title/Installation_guide)
 - [General recommendations](https://wiki.archlinux.org/title/General_recommendations)
+- [Vim Cheat Sheet](https://vim.rtorr.com/lang/ko)
 
 --- 
 
