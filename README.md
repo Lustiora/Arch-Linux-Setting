@@ -31,7 +31,8 @@
 ### Plasma Shell
 - [대기 모드로 인한 Smart Video Wallpaper Reborn, Pause Issues](https://github.com/Lustiora/Arch-Linux-Setting/issues/17)
 - [Browers 한글 입력 안되는 Issues](https://github.com/Lustiora/Arch-Linux-Setting/issues/6)
-- [Edge Browser, 특정 Profile, Youtube 바로가기 생성](https://github.com/Lustiora/Arch-Linux-Setting/issues/18)
+- [Edge Browser Youtube Sortcut](https://github.com/Lustiora/Arch-Linux-Setting/issues/18)
+- [LINE Messenger for Web](https://github.com/Lustiora/Arch-Linux-Setting/issues/27)
 
 ### Fix
 - [Network Monitoring & Troubleshooting Guide](https://github.com/Lustiora/Arch-Linux-Setting/issues/24)
