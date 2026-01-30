@@ -27,6 +27,7 @@
 - [PostgreSQL Setup](https://github.com/Lustiora/Arch-Linux-Setting/issues/12)
 - [Grub-Customizer Setup](https://github.com/Lustiora/Arch-Linux-Setting/issues/8)
 - [DPI counter using Zapret](https://github.com/Lustiora/Arch-Linux-Setting/issues/26)
+- [Linux Backup - Timeshift](https://github.com/Lustiora/Arch-Linux-Setting/issues/29)
 
 ### Plasma Shell
 - [대기 모드로 인한 Smart Video Wallpaper Reborn, Pause Issues](https://github.com/Lustiora/Arch-Linux-Setting/issues/17)
