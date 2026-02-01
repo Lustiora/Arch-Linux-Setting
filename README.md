@@ -37,6 +37,7 @@
 
 ### Fix
 - [Network Monitoring & Troubleshooting Guide](https://github.com/Lustiora/Arch-Linux-Setting/issues/24)
+- [KDE Force Restart](https://github.com/Lustiora/Arch-Linux-Setting/issues/30)
 
 ---
 
