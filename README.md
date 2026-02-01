@@ -38,6 +38,7 @@
 ### Fix
 - [Network Monitoring & Troubleshooting Guide](https://github.com/Lustiora/Arch-Linux-Setting/issues/24)
 - [KDE Force Restart](https://github.com/Lustiora/Arch-Linux-Setting/issues/30)
+- [강제 종료 이후 발생한 [bad superblock] Troubleshooting Guide](https://github.com/Lustiora/Arch-Linux-Setting/issues/31)
 
 ---
 
