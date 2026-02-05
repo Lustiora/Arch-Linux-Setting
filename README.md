@@ -41,9 +41,14 @@
 - [강제 종료 이후 발생한 [bad superblock] Troubleshooting Guide](https://github.com/Lustiora/Arch-Linux-Setting/issues/31)
 
 ### Tip
-- Console 위치의 Folder만 골라서 각자 압축하는 명령어 `sudo pacman -S zip`
-- `for dir in */; do zip -r "${dir%/}.zip" "$dir"; done`
-
+- Console 위치의 Folder만 골라서 각자 압축하는 명령어
+  ```bash
+  # Package
+  sudo pacman -S zip
+  
+  # Command
+  for dir in */; do zip -r "${dir%/}.zip" "$dir"; done
+  ```
 ---
 
 - 최신 linux 커널의 경우 `Discover (Flatpak)` 을 사용한 설치는 동작 오류 발생 가능성이 높으니 설치 자제
