@@ -50,7 +50,9 @@
   for dir in */; do zip -r "${dir%/}.zip" "$dir"; done
   ```
 - 대기모드에서 복귀 후 화면이 복구되지 않고 Ctrl + Alt + F3 으로 터미널은 열릴 때
-  `sudo systemctl restart sddm`
+  ```bash
+  sudo systemctl restart sddm
+  ```
 ---
 
 - 최신 linux 커널의 경우 `Discover (Flatpak)` 을 사용한 설치는 동작 오류 발생 가능성이 높으니 설치 자제
