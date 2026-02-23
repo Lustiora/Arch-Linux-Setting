@@ -26,6 +26,7 @@
 - [Mount Request Delete](https://github.com/Lustiora/Arch-Linux-Setting/issues/5)
 - [PostgreSQL Setup](https://github.com/Lustiora/Arch-Linux-Setting/issues/12)
 - [Grub-Customizer Setup](https://github.com/Lustiora/Arch-Linux-Setting/issues/8)
+- [GRUB Custom (Not Grub-Customizer)](https://github.com/Lustiora/Arch-Linux-Setting/issues/32)
 - [DPI counter using Zapret](https://github.com/Lustiora/Arch-Linux-Setting/issues/26)
 - [Linux Backup - Timeshift](https://github.com/Lustiora/Arch-Linux-Setting/issues/29)
 
