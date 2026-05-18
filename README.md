@@ -1,6 +1,6 @@
 # Arch Linux Setup & Settings Guide
 
-## 참고<br>
+## 참고
 - [ArchWiki](https://wiki.archlinux.org/title/Main_page)
 - [Installation guide](https://wiki.archlinux.org/title/Installation_guide)
 - [General recommendations](https://wiki.archlinux.org/title/General_recommendations)
@@ -50,16 +50,35 @@
   # Command
   for dir in */; do zip -r "${dir%/}.zip" "$dir"; done
   ```
+
 - 대기모드에서 복귀 후 화면이 복구되지 않고 Ctrl + Alt + F3 으로 터미널은 열릴 때
   ```bash
   sudo systemctl restart sddm
   ```
+
+- **Linux commands every Infrastructure Engineer runs daily**
+
+  | 명령어 | 설명 |
+  | :--- | :--- |
+  | `uptime` | 서버 가동 시간 확인 (How long has the server been running) |
+  | `df -h` | 디스크 공간 사용량 (Disk space usage) |
+  | `free -h` | 메모리 사용량 (Memory usage) |
+  | `top` / `htop` | 실시간 프로세스 및 리소스 보기 (Live process and resource view) |
+  | `ss -tlnp` | 수신 대기 중인 포트 및 프로세스 (Listening ports and processes) |
+  | `journalctl -u <service> -f` | 서비스 로그 실시간 확인 (Live service logs) |
+  | `systemctl status <service>` | 서비스 상태 및 헬스 체크 (Service health) |
+  | `systemctl --failed` | 실패한 모든 서비스 한 번에 확인 (All failed services at once) |
+  | `ip a` | 네트워크 인터페이스 및 IP (Network interfaces and IPs) |
+  | `ip r` | 라우팅 테이블 확인 (Routing table) |
+  | `dmesg \| tail` | 최근 커널 메시지 확인 (Recent kernel messages) |
+  | `last` | 최근 로그인 기록 확인 (Recent login history) |
+
 ---
 
 - 최신 linux 커널의 경우 `Discover (Flatpak)` 을 사용한 설치는 동작 오류 발생 가능성이 높으니 설치 자제
 
 | 구분 | 추천 설치 방식 | 이유 | 대상 앱 예시 |
 | --- | -- | -- | -- |
-| 하드웨어 가속 필수 |AUR / Pacman (Native) | GPU 드라이버와 1:1 매칭이 필수임 | "Chrome, Edge, Firefox, Steam(게임), OBS Studio, 동영상 플레이어(VLC, MPV)" |
-| 시스템 도구 |AUR / Pacman (Native) |시스템 파일/폴더 권한 제어가 편함 | "VS Code, 파일 관리자, 터미널" |
-| 단순 유틸리티 | Flatpak |샌드박스로 격리되어 깔끔하고 안전함 | "Discord, Spotify, Telegram, Slack, 계산기, 메모장" |
+| 하드웨어 가속 필수 | AUR / Pacman (Native) | GPU 드라이버와 1:1 매칭이 필수임 | "Chrome, Edge, Firefox, Steam(게임), OBS Studio, 동영상 플레이어(VLC, MPV)" |
+| 시스템 도구 | AUR / Pacman (Native) | 시스템 파일/폴더 권한 제어가 편함 | "VS Code, 파일 관리자, 터미널" |
+| 단순 유틸리티 | Flatpak | 샌드박스로 격리되어 깔끔하고 안전함 | "Discord, Spotify, Telegram, Slack, 계산기, 메모장" |
